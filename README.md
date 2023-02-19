@@ -6,6 +6,7 @@ http://www.flitecoin.org
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2023 Flitecoin Developers
+
 What is FliteCoin?
 ----------------
 
